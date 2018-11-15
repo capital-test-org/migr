@@ -1,7 +1,7 @@
-class hello
+class hello-linx-dev
 {
-	public static void main()
+	public static void main()	##from linux-dev
 	{
-		system.out.println("");
+		system.out.println("from linux-dev");
 	}
 }
